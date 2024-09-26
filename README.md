@@ -1,0 +1,1 @@
+# autotool-helloworld-gnu-package-rugged-board-yocto
